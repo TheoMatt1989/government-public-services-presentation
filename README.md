@@ -1,0 +1,1 @@
+A presentation exploring how Artificial Intelligence (AI), Cloud Computing, and the Internet of Things (IoT) are transforming government services, addressing community challenges, and providing technology-enabled solutions.
